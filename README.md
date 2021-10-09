@@ -37,7 +37,7 @@ Our initial target market is professional and student web developers.
 
 **Kulveer Brar** - Prototyping/Design, CSS/SASS - CONTACT 
 
-**Mandeep Dhillon** - Prototyping/Design, CSS/SASS - REGISTRATION/CART
+**Mandeep Dhillon** - Project Management, Code Review, Prototyping/Design, CSS/SASS - REGISTRATION/CART
 
 **Yaroslav Naftulyev** - Project Management, JS/JQuery
 
